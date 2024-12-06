@@ -1,0 +1,4 @@
+baseURL = "https://agabbruzzese.github.io/deepmediclub/"
+languageCode = "en-us"
+title = "deepmediclub"
+theme = "papermod"
