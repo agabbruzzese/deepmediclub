@@ -2,3 +2,15 @@ baseURL = "https://agabbruzzese.github.io/deepmediclub/"
 languageCode = "en-us"
 title = "deepmediclub"
 theme = "papermod"
+
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+
+[[params.socialIcons]]
+name = "<platform>"
+url = "<link>"
+
+[[params.socialIcons]]
+name = "<platform 2>"
+url = "<link2>"
