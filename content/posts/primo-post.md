@@ -1,5 +1,5 @@
-+++
-title = 'Primo Post'
-date = 2024-12-06T20:58:52+01:00
-draft = true
-+++
+---
+title: "Titolo del tuo Post"
+date: 2024-12-06T12:00:00+00:00
+draft: true
+---
